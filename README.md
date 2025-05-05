@@ -52,8 +52,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusMazzini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusMazzini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusMazzini&layout=compact&langs_count=7&theme=gotham"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusMazzini&show_icons=true&theme=gotham"/>
+</div></div>
 
 ###
