@@ -25,11 +25,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> 🧔🏻‍♂️ About Me</h3>
 
 ###
 
-<p align="left">🔭 On a mission to switch careers into web development 👨‍💻 — by day, I teach; by night, I code and sharpen my skills through personal projects. 💻<br><br>📚 I'm currently learning JavaScript and deepening my understanding of both front-end frameworks and back-end development.<br><br>⚡ ⚡ In my free time I like exploring new tech tools, gaming, watching sci-fi movies, and (most importantly) having fun with my little baby boy. 👶💻🎮<br><br>🤘🏻 Excited to collaborate and learn from the amazing dev community here!</p>
+<p align="left">🔭 On a mission to switch careers into web development 👨🏻‍💻 — by day, I teach; by night, I code and sharpen my skills through personal projects. 💻<br><br>📚 I'm currently learning JavaScript and deepening my understanding of both front-end frameworks and back-end development.<br><br>⚡ ⚡ In my free time I like exploring new tech tools, gaming, watching sci-fi movies, and (most importantly) having fun with my little baby boy. 👶💻🎮<br><br>🤘🏻 Excited to collaborate and learn from the amazing dev community here!</p>
 
 ###
 
